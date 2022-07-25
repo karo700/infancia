@@ -1,0 +1,9 @@
+.barra{
+background:purple !important;
+
+font-family: 'Courier New', Courier, monospace
+}
+.barra> li > a{
+    color:white !important;
+    font-size: 25px;
+}
